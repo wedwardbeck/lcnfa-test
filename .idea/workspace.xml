@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b2072d0-6fb7-4dca-ae8a-090492e48f24" name="Default Changelist" comment="" />
+    <list default="true" id="1b2072d0-6fb7-4dca-ae8a-090492e48f24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lcnfa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lcnfa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic.ini" beforeDir="false" afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic/README" beforeDir="false" afterPath="$PROJECT_DIR$/alembic/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/alembic/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic/script.py.mako" beforeDir="false" afterPath="$PROJECT_DIR$/alembic/script.py.mako" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alembic/versions/28b9fad83679_initial_migration_2020-04-12-200503.py" beforeDir="false" afterPath="$PROJECT_DIR$/alembic/versions/28b9fad83679_initial_migration_2020-04-12-200503.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dev-requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypy.ini" beforeDir="false" afterPath="$PROJECT_DIR$/mypy.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/api/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/api/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/api/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/api/users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/deps.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/deps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/security.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_app/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +42,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aS73gHMDrG58vvhAVVLxePTTN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +55,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -32,6 +64,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\tests\lcnfa" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Code\tests\lcnfa\sql_app" />
     </key>
@@ -54,6 +89,10 @@
       <screen x="-1920" y="0" width="1536" height="834" />
     </state>
     <state x="-1659" y="0" key="#Plugins/0.0.1536.834/-979.-1080.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1586720780776" />
+    <state x="-1459" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586727795358">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1459" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/-979.-1080.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1586727795358" />
     <state x="-1434" y="208" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586725098851">
       <screen x="-1920" y="0" width="1536" height="834" />
     </state>
